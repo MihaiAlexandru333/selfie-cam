@@ -19,3 +19,5 @@ export function takePhoto(video, canvas) {
   const context = canvas.getContext("2d");
   context.drawImage(video, 0, 0);
 }
+
+//test
